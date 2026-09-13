@@ -1,0 +1,253 @@
+name,latitude,longitude,feature_type,category,town,state,name_note,source,error_margin_m
+Hockanum River,41.783040,-72.587294,river,native-name,East Hartford,CT,Podunk Algonquian for 'hook-shaped',Wikipedia,1500
+Pattagansett River,41.297500,-72.226400,river,native-name,East Lyme,CT,Native name,GeoNames,800
+Pachaug River,41.605000,-71.980200,river,native-name,Griswold (Jewett City),CT,Native name,Wikipedia,1000
+Pequot Hill,41.363710,-71.977851,hill,native-reference,Groton,CT,Named for the Pequot people; near the Mystic Massacre site,GeoNames,300
+Mystic River,41.349720,-71.970280,river,native-name,Groton/Stonington,CT,"Pequot 'missi-tuk', a large tidal river",Wikipedia,1000
+Attawaugan,41.867320,-71.881183,other,native-name,Killingly,CT,Native village name,GeoNames,300
+Mohegan Hill,41.473709,-72.103689,hill,native-reference,Montville,CT,Named for the Mohegan people,GeoNames,300
+Shunock River,41.408710,-71.843125,river,native-name,North Stonington,CT,Native name,GeoNames,800
+Wyassup Lake,41.489058,-71.872496,lake,native-name,North Stonington,CT,Native name,GeoNames,400
+Shetucket River,41.522220,-72.077780,river,native-name,Norwich,CT,Native name,Wikipedia,1500
+Yantic River,41.521765,-72.078411,river,native-name,Norwich,CT,Native name,GeoNames,800
+Wauregan,41.744300,-71.909200,other,native-name,Plainfield,CT,"Algonquian, often glossed 'handsome' / 'pleasant'",GeoNames,300
+Indian Hill Avenue,41.598330,-72.623060,street,native-reference,Portland,CT,'Indian Hill' commemorates a local Native presence,Wikipedia,300
+Poquetanuck,41.487220,-72.041940,other,native-name,Preston,CT,Native village name,Wikipedia,400
+Quinebaug River,41.556100,-72.046100,river,native-name,Preston/Lisbon,CT,"'Long pond', from qunni- (long) + -paug (pond)",Wikipedia,1500
+Scantic River,41.867800,-72.616500,river,native-name,South Windsor,CT,Native name,Wikipedia,1500
+Wequetequock Cove,41.343433,-71.882292,other,native-name,Stonington,CT,Native name,GeoNames,500
+Mashapaug Lake,42.016700,-72.133300,lake,native-name,Union,CT,Native name,Wikipedia,400
+Niantic River,41.539440,-72.303330,river,native-name,Waterford/East Lyme,CT,Named for the Niantic people,Wikipedia,1000
+Natchaug River,41.712780,-72.191670,river,native-name,Windham,CT,Nipmuc for 'land between rivers',Wikipedia,1500
+Willimantic River,41.712780,-72.191670,river,native-name,Windham,CT,Likely 'place near the evergreen swamp',Wikipedia,1500
+Nagog Pond,42.515050,-71.440370,pond,native-name,Acton/Littleton,MA,Kettle-hole pond on the Acton-Littleton line; Concord's water-supply source,Lake-Link map,400
+Nashoba Brook,42.510093,-71.404506,brook,native-name,Acton/Littleton,MA,"Named for Nashoba, a 17th-century Praying Indian community in this area",anyplaceamerica.com,700
+Acushnet River,41.680830,-70.917500,river,native-name,Acushnet/New Bedford,MA,"From 'as far as the waters', an early land-sale phrase",Wikipedia,1000
+Mount Greylock,42.63726,-73.16599,mountain,native-reference,Adams,MA,"Long said to honor Abenaki leader Gray Lock, though the personal connection is unproven",Wikipedia,300
+Ashuwillticook Rail Trail,42.639444,-73.111111,other,native-name,Adams/Cheshire/Lanesborough/Pittsfield,MA,"Algonquian, 'pleasant river between the hills', for the south branch Hoosic",Wikipedia,2000
+Agawam,42.06944,-72.61528,other,native-name,Agawam,MA,Native village on the Connecticut R.; 'unloading place' or 'fish-curing place',Wikipedia,1500
+Powwow River,42.840556,-70.924444,river,native-reference,Amesbury,MA,Named from Algonquian 'powwaw' (shaman/ceremony),Wikipedia (Powwow River),1000
+Mount Norwottuck,42.305556,-72.51,mountain,native-name,Amherst/Granby,MA,Named for the Norwottuck people by geologist Edward Hitchcock,Wikipedia,400
+Cochichawick,42.6575,-71.14083,other,native-name,Andover,MA,Massachusett name for the area before its 1646 purchase by English settlers,"Wikipedia (Andover, Massachusetts)",1500
+Shawsheen River,42.67278,-71.1475,river,native-name,Andover,MA,Shawshin said to mean 'Great Spring',Wikipedia (Shawsheen River; Shawsheen Village),2000
+Aquinnah,41.334440,-70.795830,other,native-name,Aquinnah,MA,Wampanoag 'land under the hill'; formerly Gay Head,Wikipedia,1000
+Pequoiag,42.59583,-72.22722,other,native-name,Athol,MA,Native American name for the area before English settlement in 1735,"Wikipedia: Athol, Massachusetts",3000
+Pakachoag Hill,42.2,-71.833,hill,native-name,Auburn,MA,Nipmuc 'at the turning place'/'bare mountain place'; site of a Nipmuc village and Goddard's 1926 rocket launch,"Wikipedia: Nipmuc / Auburn, Massachusetts",2500
+Nonacoicus Brook,42.562035,-71.610346,brook,native-name,Ayer,MA,Algonquian-origin brook name; specific meaning not documented in sources found,USGS water data,600
+Cotuit,41.616670,-70.436940,other,native-name,Barnstable,MA,Wampanoag 'place of the council',Wikipedia,300
+Wequaquet Lake,41.671778,-70.344781,lake,native-name,Barnstable,MA,Wampanoag name; largest freshwater body in Barnstable,APCC pond list,400
+Yokum Pond,42.307924,-73.125037,pond,native-name,Becket,MA,Named for the Yokun/Yokum Mohican family associated with the area,Berkshires Outside,300
+Sachem Street,42.544207,-71.231060,street,native-reference,Billerica,MA,Street named for a Native American sachem (chief),Redfin listing metadata,100
+Shawsheen River,42.568149,-71.214779,river,native-name,Billerica/Tewksbury,MA,Reputed to mean 'Great Spring',USGS water data (gauge near Wilmington line),2000
+Nonantum Street,42.34998,-71.173898,street,native-reference,Boston (Brighton),MA,"Named for Nonantum, Waban's praying-Indian village near Newton",Redfin listing geo data,100
+Mishawum,42.37528,-71.06444,other,native-name,Boston (Charlestown),MA,Massachusett name for the Charlestown peninsula,"Wikipedia (Charlestown, Boston)",800
+Neponset River,42.3,-71.041944,river,native-name,Boston/Quincy,MA,Algonquian name for the river; runs from Foxborough to Dorchester Bay,Wikipedia (Neponset River),2000
+Sagamore,41.784170,-70.533330,other,native-name,Bourne,MA,'Sagamore' = Algonquian term for a chief/leader,Wikipedia,300
+Cochato River,42.195,-71.013,river,native-name,Braintree/Randolph,MA,"Algonquian name (cf. Cochaticquom, native name for Randolph); exact meaning unclear",Wikipedia (Cochato River; Randolph),1000
+Monatiquot River,42.194722,-71.012778,river,native-name,Braintree/Weymouth,MA,Monatiquot = 'at the deep tidal place' or 'lookout place',Wikipedia (Monatiquot River),1500
+Nippenicket,41.966944,-71.041111,pond,native-name,Bridgewater,MA,"'Nip Pond', a shallow lake within the Hockomock Swamp",GeoNames,400
+Quaboag River,42.202315,-72.079243,river,native-name,Brookfield,MA,Nipmuc 'red-water'; point at the river's outlet from Quaboag Pond,USGS water data gauge 01175745,500
+Quaboag Pond,42.18722,-72.06806,pond,native-name,Brookfield/West Brookfield,MA,"Nipmuc, 'red-water place/pond'; source of the Quaboag River",Wikipedia: Quaboag Pond,400
+Ponkapoag Pond,42.1925,-71.095,pond,native-name,Canton/Randolph,MA,Ponkapoag = 'spring bubbling from red soil' / shallow pond,Wikipedia (Ponkapoag Pond),400
+Winnetuxet River,41.967500,-70.907500,river,native-name,Carver/Halifax,MA,Tributary flowing to the Taunton River,Wikipedia,1000
+Monomoy,41.559333,-69.993722,island,native-name,Chatham,MA,Monomoy='lookout place' (Wampanoag); pt at Monomoy Point Light,Wikipedia,800
+Hoosic River,42.553889,-73.165556,river,native-name,Cheshire/Adams/North Adams/Williamstown,MA,"Algonquian, 'the stony place' or 'the beyond place'",Wikipedia,2000
+Chicopee River,42.1482,-72.6217,river,native-name,Chicopee/Springfield,MA,Algonquian 'violent/raging water'; joins Connecticut River here,Wikipedia,1500
+Menemsha Pond,41.338890,-70.773610,pond,native-name,Chilmark,MA,"Channel called Wawitukq, 'winding twisting river' (Wampanoag)",Wikipedia,500
+Nashaquitsa Pond,41.326390,-70.768060,pond,native-name,Chilmark,MA,"Wampanoag-derived pond name, part of Menemsha Pond system",Wikipedia,400
+Squibnocket Pond,41.317000,-70.783000,pond,native-name,Chilmark/Aquinnah,MA,"Wampanoag, near 'place of dark rocks' (Squibnocket Point)",Wikipedia,500
+Wachusett Reservoir,42.36944,-71.73833,lake,native-name,Clinton/Sterling,MA,Named for Mount Wachusett; reservoir also touches Boylston and West Boylston,Wikipedia: Wachusett Reservoir,800
+Assabet River,42.465300,-71.358400,river,native-name,Concord,MA,Algonquian name of uncertain meaning; proposed as 'at the place where the river turns back',Wikipedia: Assabet River,1500
+Punkatasset Hill,42.481483,-71.346726,hill,native-name,Concord,MA,Natick-language name; sources translate it as 'shallow brook',Wikipedia: Punkatasset Hill,300
+Wahconah Falls,42.487433,-73.114591,other,native-name,Dalton,MA,Mohican name; local legend of a Mohican princess Wahconah,Wikipedia,200
+Apponagansett Bay,41.575105,-70.941149,other,native-name,Dartmouth,MA,Native 'Ponagansett'; bay at the mouth of the Paskamanset River,GeoNames,500
+Nonquitt,41.562605,-70.942538,other,native-name,Dartmouth,MA,Native-derived name for this Buzzards Bay shore village,GeoNames,500
+Paskamanset River,41.570940,-71.004480,river,native-name,Dartmouth/New Bedford,MA,Freshwater portion kept its Native name; drains via Slocums River,Wikipedia,1000
+Mount Sugarloaf (Wequamps),42.47,-72.592222,mountain,native-name,Deerfield,MA,"Wequamps, 'at the point/extremity of'; Pocumtuck name for the peak",Wikipedia; Deerfield 1704 museum,400
+Pocumtuck,42.545,-72.60444,other,native-name,Deerfield,MA,Principal Pocumtuck-confederacy village; gave the region/people its name,Wikipedia,1500
+Scargo Lake,41.743060,-70.183330,lake,native-name,Dennis,MA,Named for legendary Wampanoag princess Scargo,Wikipedia,300
+Manhan River,42.3175,-72.8217,river,native-name,Easthampton,MA,Poss. Algonquian; local tradition ties name to 'valley of the little river',Wikipedia; nashawannuckpond.org,1200
+Poquanticut Brook,42.021770,-71.130050,brook,native-name,Easton,MA,Also lends its name to Poquanticut Avenue nearby,Mapcarta/HometownLocator,300
+Chappaquiddick Island,41.376110,-70.475830,island,native-name,Edgartown,MA,Wampanoag 'cheppiaquidne' = separated island,Wikipedia,500
+Katama,41.358451,-70.524469,other,native-name,Edgartown,MA,Wampanoag 'crab-fishing place',Wikipedia,300
+Indian Line Farm,42.158779,-73.453596,other,native-reference,Egremont,MA,"Named for the historic Indian Line, a Stockbridge Mohican land boundary here",Housatonic Heritage,300
+Chebacco Lake,42.61198,-70.81115,lake,native-name,Essex/Hamilton,MA,Chebacco = 'the great marsh',Wikipedia; Topozone,400
+North Watuppa Pond,41.706389,-71.106111,pond,native-name,Fall River,MA,'Place of boats',Wikipedia,500
+Quequechan River,41.695560,-71.147220,river,native-name,Fall River,MA,"'Falling River', source of the city's English name",Wikipedia,500
+Copicut River,41.674270,-71.021152,river,native-name,Fall River/Dartmouth,MA,"Flows from the Copicut Reservoir, former Copicut Swamp",Wikipedia/GeoNames,500
+South Watuppa Pond,41.664527,-71.126273,pond,native-name,Fall River/Westport,MA,"'Place of boats', companion to North Watuppa Pond",Wikipedia,500
+Coonamessett Pond,41.619207,-70.567156,pond,native-name,Falmouth,MA,"Coonamessett='long fish, white pine place' (Wampanoag)",APCC pond list; Wikipedia,300
+Coonamessett River,41.581983,-70.573533,river,native-name,Falmouth,MA,"Coonamessett='long fish, white pine place'",Wikipedia,600
+Nobska Pond,41.518385,-70.658815,pond,native-name,Falmouth,MA,"Named for adjacent Nobska Point, Wampanoag-derived",APCC pond list,200
+Assonet River,41.782046,-71.111989,river,native-name,Freetown/Berkley,MA,"'Place of the stone', from Algonquian 'hassun-et'",Wikipedia/GeoNames,800
+Annisquam River,42.65833,-70.67722,river,native-name,Gloucester,MA,Annisquam = 'top of the rock' (wanashque + ompsk),"Wikipedia (Annisquam, Massachusetts)",1500
+Cuttyhunk Island,41.418890,-70.933890,island,native-name,Gosnold,MA,"Originally 'Poocuohhunkkunnah,' Wampanoag for 'point of departure'",Wikipedia,500
+Nashawena Island,41.429275,-70.874478,island,native-name,Gosnold,MA,Wampanoag 'middle island',Wikipedia,500
+Naushon Island,41.496498,-70.707252,island,native-name,Gosnold,MA,Originally called 'Cataymucke' by Native inhabitants,Wikipedia,1000
+Nonamesset Island,41.508442,-70.686975,island,native-name,Gosnold,MA,"Elizabeth Islands group, Wampanoag name",Wikipedia,300
+Pasque Island,41.450479,-70.826712,island,native-name,Gosnold,MA,Elizabeth Islands group,Wikipedia,300
+Penikese Island,41.450107,-70.923091,island,native-name,Gosnold,MA,Elizabeth Islands group,Wikipedia,300
+Hassanamesit,42.2068,-71.68515,other,native-name,Grafton,MA,Nipmuc 'at a place of small stones'; John Eliot praying town and still a state-recognized Nipmuc reservation,HMDB historical marker,300
+Hassanamisco Reservation,42.212,-71.7045,other,native-name,Grafton,MA,"190-acre Hassanamesit Woods; still-held Nipmuc reservation land, believed site of the old praying-village meetinghouse",Wikipedia: Hassanamisco Nipmuc / Mapcarta,400
+Peeskawso Peak,42.248025,-73.340589,mountain,native-name,Great Barrington,MA,Mohican word meaning 'virtuous woman'; renamed 2021 from Squaw Peak with Stockbridge-Munsee input,PeakVisor/Berkshire Eagle,200
+Westenhuc (River Walk),42.19583,-73.3625,other,native-name,Great Barrington,MA,Native name marked by stone marker at the Old Indian Fordway on the Housatonic,Native American Heritage Trail,400
+Skatekook,42.19583,-73.3625,other,native-name,Great Barrington/Sheffield/Egremont,MA,Mohican name for an 18th-c. Indian reservation tract from the Green-Housatonic confluence west to NY,Native American Heritage Trail,3000
+Monument Mountain,42.247333,-73.340722,mountain,native-reference,Great Barrington/Stockbridge,MA,English name recalls a Mohican stone-prayer cairn once atop the peak,Wikipedia,500
+Indian Hill Road,42.588395,-71.556054,street,native-reference,Groton,MA,Street name referencing local Native American history,Redfin listing metadata,100
+Indian Head Pond,42.050000,-70.850000,pond,native-reference,Hanson,MA,Source pond of Indian Head Brook,Wikipedia,400
+Maquan Pond,42.060560,-70.851390,pond,native-name,Hanson,MA,Algonquian pond name,Wikipedia,400
+Wampatuck Pond,42.065000,-70.865000,pond,native-name,Hanson,MA,Algonquian pond name,Wikipedia,400
+Indian Head River,42.100529,-70.822512,river,native-reference,Hanson/Pembroke,MA,Named for a Native landmark; ran past the Wampanoag village of Mattakeeset,Wikipedia/USGS,800
+Wombemessock,42.35,-72.2,other,native-name,Hardwick,MA,Loup-language name for the area before it became the English plantation of Lambstown/Hardwick,"Wikipedia: Hardwick, Massachusetts",3000
+Pentucket,42.783,-71.083,other,native-name,Haverhill,MA,Pentucket = 'place of the winding river'; original name for Haverhill,"Wikipedia (Haverhill, Massachusetts)",1500
+Quinobequin,42.192778,-71.511944,river,native-name,Hopkinton,MA,"Massachusett name for the Charles River, from 'quinnuppe' (it turns)/'meandering'",Wikipedia: Charles River,500
+Agawam,42.67917,-70.84167,other,native-name,Ipswich,MA,Agawam = 'beyond/other side of the marsh'; original village name,Historic Ipswich; Wikipedia (Ipswich),800
+Assawompset Pond,41.840280,-70.919440,pond,native-name,Lakeville/Middleborough,MA,Wampanoag for 'place of the white stones',Wikipedia,500
+Pocksha Pond,41.827780,-70.894440,pond,native-name,Lakeville/Middleborough,MA,Part of the Assawompset Pond Complex chain,Wikipedia,300
+Great Quittacas Pond,41.802780,-70.898610,pond,native-name,Lakeville/Middleborough/Rochester,MA,Reservoir pond in the Assawompset pond complex,Wikipedia,400
+Little Quittacas Pond,41.791670,-70.916670,pond,native-name,Lakeville/Rochester,MA,Companion pond to Great Quittacas Pond,Wikipedia,300
+Nashaway,42.455556,-71.673611,other,native-name,Lancaster,MA,Name of the Nipmuc/Nashaway people whose territory became Lancaster; root of 'Nashua',"Wikipedia: Lancaster, Massachusetts",3000
+Nashua River,42.44722,-71.66917,river,native-name,Lancaster,MA,"Algonquian, said to mean 'beautiful river with a pebbly bottom'; formed at confluence in Lancaster",Wikipedia: Nashua River,1000
+Towtaid,42.24583,-71.90917,other,native-name,Leicester,MA,Nipmuc name for the area that became Leicester,"Wikipedia: Leicester, Massachusetts",3000
+Yokun's Seat (Yokun Ridge),42.351389,-73.337778,mountain,native-name,Lenox,MA,Named for Mohican chief Jehoiakim Yokun; Lenox was once called Yokuntown,Wikipedia,500
+Monoosnoc Brook,42.52509,-71.73702,brook,native-name,Leominster,MA,Algonquian-derived brook name; also gives its name to North/South Monoosnoc Hills,Mapcarta,800
+Merrimack River,42.650625,-71.327339,river,native-name,Lowell,MA,"Possibly 'swift water'/'strong place', or Thoreau's 'sturgeon river'",Wikipedia: Merrimack River,2000
+Musketaquid,42.646400,-71.302500,river,native-name,Lowell,MA,"Native name for the Concord River, meaning 'grass-ground' river",Wikipedia: Concord River,2000
+Pawtucket Falls,42.650625,-71.327339,other,native-name,Lowell,MA,Algonquian 'at the falls in the tidal stream'; Pennacook fishing ground,Wikipedia: Pawtucket Falls,300
+Wamesit,42.646400,-71.302500,other,native-name,Lowell,MA,Pennacook village and praying town at the Concord-Merrimack confluence,Wikipedia: Wamesit,1000
+Wannalancit Mills,42.649598,-71.316698,other,native-reference,Lowell,MA,"Mill complex named for Wonalancet, a Pennacook sachem",Wikipedia: Wannalancit Mills,150
+Wallamanumps,42.154583,-72.479867,rock,native-name,Ludlow,MA,'Red Stone'; falls on the Chicopee River,HMdb.org historical marker,200
+Attaquin Beach,41.668000,-70.479900,park,native-reference,Mashpee,MA,"Named for Solomon Attaquin, 19th-c. Wampanoag hotelier/leader",Wikipedia,200
+Mashpee,41.648330,-70.481670,other,native-name,Mashpee,MA,'Mass-nippe' = 'great water/great cove',Wikipedia,1000
+Mashpee River,41.596111,-70.466944,river,native-name,Mashpee,MA,Mouth at Popponesset Bay; named for Mashpee Wampanoag,Wikipedia,600
+Mashpee-Wakeby Pond,41.660666,-70.486757,pond,native-name,Mashpee,MA,Mashpee='great water/cove'+Wakeby; largest pond on Cape Cod,APCC pond list,400
+Popponesset Island,41.585560,-70.458890,island,native-name,Mashpee,MA,Named for Popponesset Bay,Wikipedia,300
+Santuit Pond,41.654350,-70.458373,pond,native-name,Mashpee,MA,Santuit = 'cool water place' (Wampanoag),APCC pond list,300
+Santuit River,41.617000,-70.450000,river,native-name,Mashpee/Barnstable,MA,"Also called Cotuit River; Wampanoag name, boundary stream",Wikipedia,600
+Ashumet Pond,41.632798,-70.534183,pond,native-name,Mashpee/Falmouth,MA,Wampanoag-derived pond name,APCC pond list,300
+Titicut,41.933435,-70.974487,other,native-name,Middleborough,MA,Historic Native village and later parish along the Taunton/Nemasket rivers,GeoNames,800
+Nemasket River,41.921878,-70.923361,river,native-name,Middleborough/Lakeville,MA,'Place where the fish are'; major alewife run to the Taunton River,Wikipedia/USGS,1500
+Great Blue Hill,42.212043,-71.115606,hill,native-name,Milton/Canton/Randolph,MA,Massachuseuck = 'people at the great hill'; source of the name Massachusetts,Wikipedia (Great Blue Hill),500
+Peskeompskut,42.598943,-72.556809,other,native-name,Montague,MA,Pocumtuc village at the Great Falls; 'where salmon jump at the split rocks',Wikipedia; Nolumbeka Project,500
+Bash Bish Falls,42.11306,-73.49528,other,native-name,Mount Washington,MA,"Named for Bash-Bish, a Mohican woman in local legend of the falls",Wikipedia/Atlas Obscura,200
+Nahant,42.42639,-70.91944,neck,native-name,Nahant,MA,Nahant = 'the point' or 'almost an island' (Natick),"Wikipedia (Nahant, Massachusetts)",800
+Madaket,41.272780,-70.198060,other,native-name,Nantucket,MA,"Village name; historic spellings Madaquet, Maddequet",Wikipedia,300
+Muskeget Island,41.335280,-70.304170,island,native-name,Nantucket,MA,Wampanoag-derived island name,Wikipedia,300
+Polpis,41.298330,-70.012780,other,native-name,Nantucket,MA,Historic spellings Podpis/Poadpis,Wikipedia,300
+Sesachacha Pond,41.296110,-69.980140,pond,native-name,Nantucket,MA,Wampanoag-derived pond name near Quidnet,Mapcarta,400
+Siasconset,41.262500,-69.966110,other,native-name,Nantucket,MA,"Wampanoag 'place of great bones,' from missi+askon",Wikipedia,300
+Tuckernuck Island,41.302220,-70.257220,island,native-name,Nantucket,MA,Said to mean 'loaf of bread' (Wampanoag),Wikipedia,300
+Wauwinet,41.329170,-69.996110,other,native-name,Nantucket,MA,Named for a local Native chief,Wikipedia,300
+Lake Cochituate,42.318988,-71.378151,lake,native-name,Natick/Wayland/Framingham,MA,Algonquian name; also names the Cochituate village in Wayland,Wikipedia: Lake Cochituate,700
+Umpachene River,42.101,-73.233667,river,native-name,New Marlborough,MA,Named for Mohican sachem Aaron Umpachene; empties into Konkapot near Southfield village,Wikipedia,800
+Quascacunquen,42.76667,-70.845833,other,native-name,Newbury,MA,Quascacunquen = 'waterfall'; original name for the land that became Newbury (Byfield falls),"Wikipedia (Newbury, Massachusetts)",1500
+Nonantum,42.362500,-71.202220,other,native-name,Newton,MA,"Massachusett 'I bless it'; named 1637 for Eliot's praying-Indian settlement, earlier 'Cohannet'","Wikipedia: Nonantum, Massachusetts",400
+Nonotuck,42.333,-72.65,other,native-name,Northampton,MA,"Pocumtuc name for the area, 'the midst of the river'",Wikipedia; Historic Northampton,2000
+Pawaagonick (Mill River),42.333,-72.65,river,native-name,Northampton,MA,'Place of small long stones'; native name for the Mill River,Historic Northampton,2500
+Capawonk,42.34167,-72.58889,meadow,native-name,Northampton/Hadley,MA,'Enclosed/protected place'; native name for river-bend meadows here,Historic Northampton,2000
+Norwottuck,42.34,-72.6,other,native-name,Northampton/Hadley,MA,Algonquian name for area from South Hadley Falls to Mt Sugarloaf,Wikipedia,3000
+King Philip's Hill,42.683889,-72.476389,hill,native-reference,Northfield,MA,"Named for Metacomet (King Philip), Wampanoag sachem of King Philip's War",Wikipedia,300
+Squakheag,42.695833,-72.453333,other,native-name,Northfield,MA,Nipmuc/Sokoki village name for the site of Northfield,Wikipedia,1500
+Winnecunnet Pond,41.970830,-71.131940,pond,native-name,Norton,MA,Said to mean 'beautiful place in the pines',Wikipedia,400
+Nauset Beach,41.840583,-69.952083,other,native-name,Orleans,MA,"Named for the Nauset people, 'place between'",Wikipedia,500
+Quaboag River,42.17917,-72.36389,river,native-name,Palmer,MA,"Nipmuck 'red-water pond'; meets Ware R. here, forming the Chicopee R.",Wikipedia,1500
+Nashua River,42.671667,-71.564722,river,native-name,Pepperell,MA,"Algonquian, said to mean 'beautiful river with a pebbly bottom'",Wikipedia: Nashua River,2000
+Nissitissit River,42.671667,-71.564722,river,native-name,Pepperell,MA,"Algonquian-named tributary joining the Nashua River here from Hollis, NH",Wikipedia: Nissitissit River,1000
+Nichewaug,42.4375,-72.20361,other,native-name,Petersham,MA,Nipmuck-area (Loup A language) name meaning 'the land between'; former village,"Wikipedia: Nichewaug, Massachusetts",500
+Quabbin Reservoir,42.35917,-72.3,lake,native-name,Petersham/Hardwick/Ware,MA,"Nipmuc, 'place of many waters'; name transferred from a hill and lake flooded to build the reservoir",Wikipedia: Quabbin Reservoir,3000
+Housatonic River,42.433611,-73.250833,river,native-name,Pittsfield,MA,"Mohican 'usi-a-di-en-uk', 'beyond the mountain place'; forms at confluence of E/W branches",Wikipedia,2000
+Lake Onota,42.47667,-73.26611,lake,native-name,Pittsfield,MA,Mohican-derived lake name,Wikipedia,400
+Pontoosuc Lake,42.48475,-73.247306,lake,native-name,Pittsfield/Lanesborough,MA,Mohican-derived lake name,Mass.gov,400
+Massasoit National Wildlife Refuge,41.889167,-70.643333,park,native-reference,Plymouth,MA,Named for Wampanoag leader Massasoit,GeoNames,500
+Massasoit Statue,41.958056,-70.661944,other,native-reference,Plymouth,MA,Bronze statue of Massasoit overlooking Plymouth Harbor at Cole's Hill,GeoNames,100
+Tispaquin Pond,41.863333,-70.857222,pond,native-name,Plymouth,MA,"Named for Tispaquin, the Wampanoag 'Black Sachem'",GeoNames,400
+Wachusett Meadow Wildlife Sanctuary,42.4557,-71.9055,meadow,native-name,Princeton,MA,"1,135-acre Mass Audubon sanctuary named for Mount Wachusett",Wikipedia: Wachusett Meadow Wildlife Sanctuary,300
+Quinapoxet River,42.39611,-71.88306,river,native-name,Princeton/Holden,MA,"Nipmuc, 'at the place of the little long pond' or 'the long swamp'",Wikipedia: Quinapoxet River,1000
+Mount Wachusett,42.48889,-71.8875,mountain,native-name,Princeton/Westminster,MA,Natick/Nipmuc for 'near the mountain' or 'mountain place',Wikipedia: Mount Wachusett,500
+Moswetuset Hummock,42.289444,-71.021667,hill,native-name,Quincy,MA,Moswetuset = 'arrowhead-shaped hill'; source of the name Massachusetts,Wikipedia (Moswetuset Hummock),200
+Squantum,42.3,-71.03889,neck,native-reference,Quincy,MA,"Peninsula/neighborhood named for Squanto (Tisquantum), guide to Plymouth Colony",Wikipedia (Squantum Point Park),500
+Chickatawbut Hill,42.212146,-71.114061,hill,native-reference,Quincy/Milton,MA,Hill and parkway road in Blue Hills Reservation named for Sachem Chickatawbut,Wikipedia (Blue Hills Reservation),1000
+Squawbetty Hill,41.888435,-71.034210,hill,native-reference,Raynham,MA,Hill name recording a Native presence (also 'Squabetter'/'Squawbally' Hill),GeoNames,300
+Anawan Rock,41.865000,-71.214440,rock,native-reference,Rehoboth,MA,"Where Anawan, Metacomet's captain, surrendered, ending King Philip's War (1676)",Wikipedia,100
+Squannakonk Swamp,41.854270,-71.210600,swamp,native-name,Rehoboth,MA,"Large swamp, now partly protected by local land trust preserves",Mapcarta/GeoNames,500
+Snipatuit Pond,41.776670,-70.863330,pond,native-name,Rochester,MA,Headwater pond of the Mattapoisett River,Wikipedia,400
+Sippican River,41.738000,-70.749000,river,native-name,Rochester/Marion/Mattapoisett,MA,Possibly 'long river'; Marion was formerly named Sippican,Wikipedia,1000
+Mattapoisett River,41.662604,-70.838370,river,native-name,Rochester/Mattapoisett,MA,Historically called 'the Herring Run' for its alewife run,Wikipedia/USGS,1000
+Woronoco,42.165647,-72.829263,other,native-name,Russell,MA,"Pocumtuck name for the area, 'the winding land'; former village on the Westfield R.",Wikipedia; USGS,800
+Naumkeag,42.51944,-70.89722,other,native-name,Salem,MA,Original Massachusett name for Salem; 'eel land/fishing ground',"Wikipedia (Salem, Massachusetts)",800
+Scusset Beach,41.781217,-70.503639,other,native-name,Sandwich,MA,"Scusset, earlier Algonquian-derived name for this shore",Wikipedia,300
+Saugus River,42.395931,-70.949493,river,native-name,Saugus/Lynn,MA,Saugus = Natick for 'outlet'; native name Aboutsett meant 'winding stream',Wikipedia; Topozone (Broad Sound),1500
+Runnins River,41.777222,-71.323056,river,native-name,Seekonk,MA,Small river near the Rhode Island line,GeoNames,800
+Lake Massapoag,42.10111,-71.17694,lake,native-name,Sharon,MA,Massapoag = 'large water' (Algonquian),Wikipedia (Lake Massapoag),400
+Konkapot River,42.0505,-73.343,river,native-name,Sheffield,MA,"Named for Mohican sachem Captain John Konkapot; point at mouth on Housatonic, Ashley Falls",Wikipedia,1500
+Shewamet,41.719500,-71.184800,other,native-name,Somerset,MA,Historic Native name ('Shewamet Purchase'/'Skawomet') for Somerset,GeoNames,1000
+Congamond Lakes,42.04139,-72.75719,lake,native-name,Southwick,MA,Native-named lake system on the Massachusetts-Connecticut line,Mass.gov,800
+Connecticut River (Quinnetukut),42.10139,-72.59028,river,native-name,Springfield,MA,"Mohegan quinetucket / Nipmuc kwinitekw, 'long tidal river'",Wikipedia,3000
+East Waushacum Pond,42.41126,-71.74743,pond,native-name,Sterling,MA,"Algonquian pond name in Sterling, paired with West Waushacum Pond",Mapcarta,300
+West Waushacum Pond,42.41429,-71.76441,pond,native-name,Sterling,MA,"Algonquian pond name in Sterling, paired with East Waushacum Pond",Mapcarta,300
+Stockbridge Bowl (Lake Mahkeenac),42.337,-73.318,lake,native-name,Stockbridge/Lenox,MA,Mohican name Mahkeenac for this lake basin,Wikipedia,500
+Tantiusques,42.05722,-72.13111,other,native-name,Sturbridge,MA,"Nipmuc word meaning 'the place between two low hills'; graphite mine, named for sachem Tantasqua's territory",Wikipedia: Tantiusques,300
+Manchaug Pond,42.09417,-71.74722,pond,native-name,Sutton,MA,Named for a 1670s Nipmuc praying town whose name persisted for the pond and later mill village,Wikipedia: Manchaug Village Historic District,400
+Wannamoisett,41.757094,-71.212024,other,native-name,Swansea,MA,Historic Native name/purchase title for the town of Swansea,GeoNames,1000
+Segreganset River,41.825000,-71.119000,river,native-name,Taunton/Dighton,MA,Tributary of the Taunton River,Wikipedia,1000
+Pamet River,41.992330,-70.072250,river,native-name,Truro,MA,Named for the Pamet (Paomet) people,Wikipedia; Mapcarta,1000
+Squimshepauk,42.07722,-71.63,other,native-name,Uxbridge,MA,Native name for the plantation land sold by Nipmuc leaders (incl. Wutaushauk) that became Uxbridge,"Wikipedia: Uxbridge, Massachusetts",3000
+Wacuntuc,42.07722,-71.63,other,native-name,Uxbridge,MA,Nipmuc name meaning 'a bend in the river' for the Uxbridge/Mendon area,Wikipedia: Nipmuc,3000
+Sachem Street,42.398514,-71.239817,street,native-reference,Waltham,MA,Street named for a Native American sachem (chief),Redfin listing metadata,100
+Agawam River,41.759170,-70.679170,river,native-name,Wareham,MA,Named for the Agawam people,Wikipedia,1000
+Wankinco River,41.766215,-70.721702,river,native-name,Wareham/Carver/Plymouth,MA,"From 'Wonqun', said to mean 'crooked'",Wikipedia/USGS,1000
+Weweantic River,41.721710,-70.724900,river,native-name,Wareham/Carver/Rochester/Middleborough,MA,'Crooked or wandering stream' in Wampanoag,Wikipedia,1000
+Lake Chaubunagungamaug,42.04167,-71.84167,lake,native-name,Webster,MA,"Nipmuc; per Ives Goddard 'lake divided by islands', popularly 'fishing place at the boundary'",Wikipedia: Lake Chaubunagungamaug,400
+Wickaboag Pond,42.26889,-72.15944,pond,native-name,West Brookfield,MA,Algonquian name for the pond bordering the Wickaboag Valley Historic District,Wikipedia: Wickaboag Valley Historic District,400
+Mittineague,42.10694,-72.62083,other,native-name,West Springfield,MA,"Natick 'muttinohkou'+'ohke', 'land on the right'; neighborhood on the Westfield R.",Wikipedia,2500
+Tatham,42.10694,-72.62083,other,native-name,West Springfield,MA,"Agawam-language word for the area/brook, poss. 'enclosure'",Wikipedia,2500
+Nabnasset Pond,42.616256,-71.419347,pond,native-name,Westford,MA,Also the name of the adjoining Nabnasset village; Algonquian origin,Mass.gov,400
+Acoaxet,41.507048,-71.096709,other,native-name,Westport,MA,Native village name for Westport's southwestern shore,GeoNames,500
+Wessagusset,42.22083,-70.94028,other,native-name,Weymouth,MA,"Original name of the 1622 Wessagusset Colony, precursor to Weymouth","Wikipedia (Weymouth, Massachusetts)",1000
+Minnechaug,42.12361,-72.43194,other,native-name,Wilbraham,MA,"Nipmuc, 'berry land'",Wikipedia,3000
+Lake Monomonac,42.7175,-71.99528,lake,native-name,Winchendon,MA,Algonquian lake name; lake straddles Winchendon MA and Rindge NH,Wikipedia: Lake Monomonac,500
+Indian Hill Road,42.446137,-71.159661,street,native-reference,Winchester,MA,Street name referencing local Native American history,Redfin listing metadata,100
+Mystic River,42.433429,-71.149498,river,native-name,Winchester/Medford,MA,"Massachusett 'missi-tuk', big tidal river; resemblance to English 'mystic' is coincidence",Wikipedia: Mystic River Reservation,1500
+Sachem Road,42.458131,-71.194389,street,native-reference,Woburn,MA,Street named for a Native American sachem (chief),Redfin listing metadata,100
+Quinsigamond River,42.182,-71.69,river,native-name,Worcester/Grafton,MA,"Outlet stream of Lake Quinsigamond, flows to the Blackstone River",Wikipedia: Quinsigamond River,1500
+Lake Quinsigamond,42.270833,-71.755,lake,native-name,Worcester/Shrewsbury,MA,Nipmuc name for the lake; Worcester itself was called Quinsigamond by the Nipmuc,Wikipedia: Lake Quinsigamond,400
+Wollomonopoag,42.06667,-71.32861,other,native-name,Wrentham,MA,"Original native name for the area, purchased from Native inhabitants in the 1660s","Wikipedia (Wrentham, Massachusetts)",1500
+Nayatt Point,41.725100,-71.338900,neck,native-name,Barrington,RI,"Coastal point, likely of Narragansett origin",GeoNames,300
+Chockalog River,41.995300,-71.689700,river,native-name,Burrillville,RI,Native name,GeoNames,500
+Nipmuc River,41.970800,-71.678900,river,native-name,Burrillville,RI,Named for the Nipmuc people,GeoNames,500
+Pascoag River,41.960600,-71.702300,river,native-name,Burrillville,RI,Native name shared with the village of Pascoag,Wikipedia,500
+Ninigret Pond,41.379268,-71.645340,pond,native-reference,Charlestown,RI,Named for the 17th-century Niantic sachem Ninigret,Wikipedia,500
+Quonochontaug Pond,41.341670,-71.721670,pond,native-name,Charlestown,RI,Coastal salt pond; locally 'Quonnie Pond',Wikipedia,500
+Watchaug Pond,41.383434,-71.689786,pond,native-name,Charlestown,RI,Native name,Wikipedia,500
+Mishnock River,41.690100,-71.572285,river,native-name,Coventry/West Warwick,RI,Native name,GeoNames,800
+Pawtuxet River,41.764416,-71.389094,river,native-name,Cranston/Warwick,RI,Possibly Narragansett for 'little falls' (uncertain),Wikipedia,1000
+Chipuxet River,41.449268,-71.559783,river,native-name,Exeter/South Kingstown,RI,Native name; primary water source for URI,GeoNames,1000
+Chepachet River,41.953900,-71.646100,river,native-name,Glocester,RI,Said to mean 'where rivers meet' (Pequot/Nipmuc),GeoNames/Wikipedia,500
+Ponaganset River,41.832000,-71.730200,river,native-name,Glocester/Foster,RI,Native name,Wikipedia,1000
+Ashaway River,41.416900,-71.797800,river,native-name,Hopkinton,RI,"Native name, shared with the village of Ashaway",GeoNames,500
+Pettaquamscutt River,41.519083,-71.445492,river,native-name,Narragansett/South Kingstown,RI,Native name; also called the Narrow River,Wikipedia,1500
+Sachem Pond,41.222500,-71.569650,pond,native-reference,New Shoreham,RI,'Sachem' is the Algonquian title for a chief,GeoNames,300
+Annaquatucket River,41.548990,-71.436168,river,native-name,North Kingstown,RI,Native name,GeoNames,800
+Cocumscussoc,41.585935,-71.458113,hill,native-name,North Kingstown,RI,Narragansett name; site of the Smith's Castle trading post,GeoNames,400
+Quidnessett,41.627323,-71.453391,other,native-name,North Kingstown,RI,Narragansett name,GeoNames,400
+Moshassuck River,41.826489,-71.412001,river,native-name,Providence,RI,Narragansett for 'river where moose watered',Wikipedia/GeoNames,1000
+Woonasquatucket River,41.813989,-71.400611,river,native-name,Providence,RI,Algonquian for 'where the salt water ends',Wikipedia/GeoNames,1500
+Moswansicut Pond,41.843600,-71.576100,pond,native-name,Scituate,RI,Native name; also called Great Pond,GeoNames,500
+Saugatucket River,41.462880,-71.475058,river,native-name,South Kingstown,RI,Native name; empties at Silver Spring Cove,GeoNames,800
+Usquepaug River,41.452879,-71.608396,river,native-name,South Kingstown,RI,Native name; tributary of the Pawcatuck,GeoNames,800
+Mattatuxet River,41.520935,-71.444501,river,native-name,South Kingstown/Narragansett,RI,Native name,GeoNames,500
+Sakonnet River,41.471072,-71.223935,river,native-name,Tiverton/Portsmouth,RI,From the Sakonnet people; interpreted as 'where the water pours forth',Wikipedia,2000
+Kickemuit River,41.698200,-71.244200,river,native-name,Warren/Bristol,RI,Wampanoag for 'at the large spring',Wikipedia,1000
+Apponaug,41.700379,-71.459780,other,native-name,Warwick,RI,Narragansett village/cove name,GeoNames,400
+Cowesett,41.681212,-71.461169,other,native-name,Warwick,RI,Narragansett name,GeoNames,400
+Nausauket,41.690700,-71.438100,other,native-name,Warwick,RI,Narragansett neighborhood name,GeoNames,400
+Potowomut,41.655600,-71.435800,neck,native-name,Warwick,RI,Narragansett for 'land of fires',Wikipedia/GeoNames,300
+Nooseneck River,41.620656,-71.620898,river,native-name,West Greenwich,RI,Native name,GeoNames,500
+Maskerchugg River,41.647601,-71.454502,river,native-name,West Warwick/Coventry,RI,Native name,GeoNames,500
+Misquamicut,41.323890,-71.821940,other,native-name,Westerly,RI,Narragansett for 'red fish place' / 'salmon place',Wikipedia,300
+Weekapaug,41.330830,-71.755000,other,native-name,Westerly,RI,Narragansett for 'at the end of the pond',Wikipedia,300
+Winnapaug Pond,41.331767,-71.786734,pond,native-name,Westerly,RI,"Coastal salt pond, also known as Brightman Pond",Wikipedia,400
+Narragansett Bay,41.570252,-71.334229,other,native-name,coastal RI,RI,Named for the Narragansett people,GeoNames,3000
+Moosup River,41.766100,-71.771400,river,native-reference,Coventry/Sterling,RI/CT,Named for the sachem Maussup,Wikipedia,1500
+Pawcatuck River,41.320000,-71.860000,river,native-name,Westerly/Stonington,RI/CT,Native name; historic RI-CT boundary river,Wikipedia,1500
+Wallum Lake,42.008709,-71.768403,lake,native-name,Burrillville/Douglas,RI/MA,Native name; straddles the Massachusetts line,Wikipedia,400
